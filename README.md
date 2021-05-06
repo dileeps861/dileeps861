@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dileep
 - 👀 I’m interested in ... Java, Algorithms, React.jjs, and Springboot.
 - 🌱 I’m currently learning ... Algorithms, Java, and Reac.js
-- 💞️ I’m looking to collaborate on ... Java, Algo, and React.js
+- 💞️ I’m looking to collaborate on ... Java, Algorithms, and React.js
 - 📫 How to reach me ... email me at: dileeps861@hotmail.com
 
 <!---
