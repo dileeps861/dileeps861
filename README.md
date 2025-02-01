@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dileep
+- 👋 Hi, I’m Dileep
 - 👀 I’m interested in ... Problem Solving, DSA, Java is in blood, enjoy coding with React.js and Springboot.
 - 🌱 I’m currently learning ... DSA, AWS, and Leadership skills
 - 💞️ I’m looking to collaborate on ... Problem solving, Product development
